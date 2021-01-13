@@ -5,7 +5,6 @@ from subprocess import Popen
 import sys
 import argparse
 from datetime import datetime
-import time
 from weather import get_weather
 
 def send_notfication():
